@@ -38,7 +38,9 @@ Response table:
 | Category | Opportunities | If CV is attached - provide light feedback based on [Profession Capability Framework](https://ddat-capability-framework.service.gov.uk/role/data-scientist) based on the following level|
 | :---     | :---         | :---        |
 | Below 18 | None | [Trainee data scientist](https://ddat-capability-framework.service.gov.uk/role/data-scientist#trainee-data-scientist) |
-| Undergrads | </ul><li> [Graduate Management Training Scheme](https://graduates.nhs.uk/), </ul><li> [10,000 Interns Foundation](https://10000internsfoundation.com/) </ul><li> [Civil Service Fast Stream - Digital Scheme](https://www.civil-service-careers.gov.uk/fast-stream/fs-all-schemes/fs-digital-scheme/)  | [Associate data scientist](https://ddat-capability-framework.service.gov.uk/role/data-scientist#associate-data-scientist)|
+| Undergrads | </ul><li> [Graduate Management Training Scheme](https://graduates.nhs.uk/) 
+</ul><li> [10,000 Interns Foundation](https://10000internsfoundation.com/) 
+</ul><li> [Civil Service Fast Stream - Digital Scheme](https://www.civil-service-careers.gov.uk/fast-stream/fs-all-schemes/fs-digital-scheme/)  | [Associate data scientist](https://ddat-capability-framework.service.gov.uk/role/data-scientist#associate-data-scientist)|
 | Others including graduates | NHS and allied jobs tend to advertise data scientist jobs on [NHS Jobs](https://www.jobs.nhs.uk/candidate/search/results?keyword=data%20scientist&language=en), [nhsjobs.com](https://www.nhsjobs.com/job_list/ns?JobSearch_q=Data+scientist&JobSearch_QueryIntegratedSubmit=Search&_tr=JobSearch&_ts=1), [Civil Service Jobs](https://www.civilservicejobs.service.gov.uk/csr/index.cgi) | Based on the position given on the CV, by default [Data scientist](https://ddat-capability-framework.service.gov.uk/role/data-scientist#data-scientist) |
 
 ### Discretionary points to add:
@@ -46,6 +48,7 @@ Response table:
 - Style of Working – [Agile](https://www.gov.uk/service-manual/communities/agile-delivery-community)
 - Product management – [CRISP-DM](https://www.gov.uk/guidance/planning-and-preparing-for-artificial-intelligence-implementation)
 - Competency-Based Interviews - [From NHS Professionals](https://careers.nhsprofessionals.nhs.uk/news/16/competency-based-interviews-our-advice.html)
+- DevOps - [From the Home Office](https://hodigital.blog.gov.uk/2020/09/15/what-are-we-doing-in-devops-at-the-home-office/)
 
 
 
